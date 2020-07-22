@@ -1,2 +1,2 @@
 # scrapyAulaAbertaMercadoLivre
-Exemplo de Scrap no Site Mercado Livre
+Exemplo de Scrap utilizando a biblioteca Scrapy no Site Mercado Livre
